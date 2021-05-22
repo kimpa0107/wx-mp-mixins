@@ -1,0 +1,3 @@
+<view class="container">
+  <view>{{ message }}, {{ user.name }}</view>
+</view>
